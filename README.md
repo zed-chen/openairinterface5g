@@ -27,6 +27,8 @@
   <a href="https://hub.docker.com/r/oaisoftwarealliance/oai-nr-cuup"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/oaisoftwarealliance/oai-nr-cuup?label=NR-CUUP%20docker%20pulls"></a>
 </p>
 
+A copy from [Openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g), v2.2.0
+
 # OpenAirInterface License #
 
  *  [OAI License Model](http://www.openairinterface.org/?page_id=101)
